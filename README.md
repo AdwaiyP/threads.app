@@ -3,8 +3,6 @@
 A modern, responsive web application built with **Next.js** that serves as a frontend interface for a Threads-style social platform.  
 This project combines the power of **React** with **TypeScript**, **TailwindCSS**, and **Next.js** features for optimized performance, routing, and SEO.
 
-🔗 **Live Demo:** https://threads-app-ten-zeta.vercel.app :contentReference[oaicite:1]{index=1}
-
 ---
 
 ## 🧠 Overview
